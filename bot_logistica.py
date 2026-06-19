@@ -4,7 +4,7 @@ from openpyxl import load_workbook, Workbook
 
 #Configuración inicial 
 
-TOKEN = "8909901049:AAFMHKRXps0nmd55S0e_aqKplPVPP_3sbJ8"
+TOKEN = 
 bot = telebot.TeleBot(TOKEN)
 DIRECTORIO_ACTUAL = os.path.dirname(os.path.abspath(__file__))
 ARCHIVO_EXCEL = os.path.join(DIRECTORIO_ACTUAL, "base_datos_aduanas.xlsx")
