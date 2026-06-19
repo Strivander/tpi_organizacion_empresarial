@@ -19,7 +19,7 @@ El desarrollo forma parte del Trabajo Práctico Integrador (TPI) para la materia
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/Strivander/tpi_organizacion_empresarial.git](https://github.com/Strivander/tpi_organizacion_empresarial.git)
+   git clone https://github.com/Strivander/tpi_organizacion_empresarial.git
    ```
 
 2. **Instalar las dependencias necesarias**
